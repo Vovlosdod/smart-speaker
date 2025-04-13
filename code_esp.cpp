@@ -16,8 +16,8 @@ const char* serverUrl = "http://...:5000/voice";
 
 // #define BUZZER_PIN 5
 
-#define SAMPLE_RATE 4000
-#define RECORD_TIME 1
+#define SAMPLE_RATE 8000
+#define RECORD_TIME 2
 #define MIC_GAIN 60      // Усиление микрофона
 
 #define I2S_BCLK 14      // D5 (MAX98357A BCLK)
